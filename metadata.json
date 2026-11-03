@@ -1,0 +1,6 @@
+{
+  "name": "Arthanusa",
+  "description": "Ekosistem digital ekonomi sirkular perkebunan Indonesia yang menghubungkan petani, koperasi, UMKM pengolah limbah sawit, kelapa, kakao, dan pendukung kebijakan BPDP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
